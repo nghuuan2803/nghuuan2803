@@ -13,31 +13,31 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt=".NET" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Flutter" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Blazor" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 </p>
-
-   ### 🟦 Basic Skills
-      🔹 HTML/CSS/JavaScript, Bootstrap 5
-      🔹 React, TypeScript
-      🔹 Dart, Flutter
-      🔹 Java, Android Studio
       
-   ### 🟦 Core Skills (~ 1 year)
-      🔹 C#, .NET 8+
-      🔹 ASP.NET Core MVC / Web API (RESTful)
-      🔹 EntityFramework Core
-      🔹 Blazor Web App
-      🔹 SQL Server, PostgreSQL
-      🔹 Clean Architecture
+   ### 🟦 Core Skills (~ 1y exp)
+      🔹 Platform/SDK: .NET Framework, .NET Core, .NET 6/8/9/10
+      🔹 Programming language: C# - OOP - SOLID 
+      🔹 Frameworks: ASP.NET Core (MVC/WebAPI), Blazor (Server/WebAssembly)
+      🔹 ORM: EntityFramework Core
+      🔹 Database: SQL Server, PostgreSQL
+      🔹 Libraries: MediatR, WolverineFx, Marten, FluentValidation, AutoMapper, Serilog
+      🔹 Architecure Patterns: MVC, Clean Architecture, Modular Monolith, Vertical Slide, CQRS, Event-Drivent, Event Sourcing
+      🔹 Design Patterns: Repository, Unit Of Work, Strategy, Decorator, Factory, Adapter
+      🔹 Testing: xUnit/NUnit, Alba, Moq, FluentAssertion, TestContainers.PostgreSql
+      
+   ### 🟦 Others (basic/beginner)
+      🔹 Web Frontend: HTML/CSS, Bootstrap 5, JavaScript/TypeScript, React
+      🔹 Mobile Programming: Android Studio (Java), Flutter
+      🔹 Security: Authentication/Authorization, JWT, Cookie/Session, AspNetCore Identity
+      🔹 Distributed system: Microservices, OpenTeleMetry, Monitoring (Prometheus - Grafana - Loki - Tempo), gRPC
       
    ### 🟦 Tools
-      🔹 IDE: Visual Studio, VS Code, Cursor, Android Studio
-      🔹 Version controll: Git, GitHub, Bitbucket
+      🔹 Version Control: Git, GitHub, Bitbucket
+      🔹 AI Coding Agent: Cursor, Antigravity, Copilot
+      🔹 Containerize: Docker, WSL2 Ubuntu, Coolify
       🔹 Project Management: Jira, Trello
 ---
 
