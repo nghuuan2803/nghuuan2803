@@ -10,7 +10,7 @@
 ## 🟦 Core Skills (~ 1y exp)
       🔹 Backend: C#, .NET 8/9/10, ASP.NET Core MVC + Web API, EntityFramework Core, LINQ, MediatR, Wolverine
       🔹 Database: SQL Server, PostgreSQL
-      🔹 Frontend (basic): HTML/CSS, JavaScript, Blazor
+      🔹 Frontend (basic): HTML,CSS, Razor View, Blazor Web App
       🔹 Other tools: Git/GitHub, Docker
 ---
 
