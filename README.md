@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 </p>
       
-## 🟦 Core Skills (~ 1y exp)
+## 🟦 Core Skills
       🔹 Backend: C#, .NET 8/9/10, ASP.NET Core MVC + Web API, EntityFramework Core, LINQ, MediatR, Wolverine
       🔹 Database: SQL Server, PostgreSQL
       🔹 Frontend (basic): HTML,CSS, Razor View, Blazor Web App
