@@ -8,9 +8,9 @@
 </p>
       
 ## 🟦 Core Skills
-      🔹 Backend: C#, .NET 8/9/10, ASP.NET Core MVC + Web API, EntityFramework Core, LINQ, MediatR, Wolverine
+      🔹 Backend: C#, .NET Framework, .NET 6+, ASP.NET Core (MVC, Web API), EntityFramework Core, LINQ, MediatR, Wolverine
       🔹 Database: SQL Server, PostgreSQL
-      🔹 Frontend (basic): HTML,CSS, Razor View, Blazor Web App
-      🔹 Other tools: Git/GitHub, Docker
+      🔹 Frontend (basic): HTML, CSS, JavaScript, TypeScript, Razor, Blazor Web App
+      🔹 Tools: Git/GitHub, Docker, Jira, Postman
 ---
 
